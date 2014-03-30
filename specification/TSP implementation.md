@@ -48,11 +48,11 @@
 
 >These diagrams show the interaction between a user and the server.
 
-<center><img width=700 src="/images/TakoConnection.png"></center>
+<center><img width=700 src="images/TakoConnection.png"></center>
 
 >The user has then 2 options
 
-<center><img width=520 src="/images/TakoConnection2.png"></center>
+<center><img width=520 src="images/TakoConnection2.png"></center>
 
 ### 3.2. <a name="SystemComponents"></a>System Components
 
