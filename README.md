@@ -13,4 +13,7 @@ Make sure that you update the information just below with the names of the two s
 
 ## Fork Information
 
-This repo has been forked by Rui Reis and Antoine Messerli.
+This repo has been forked by Arnaud Desclouds, Rui Reis and Antoine Messerli.
+
+The specification was made by Rui Reis and Antoine Messerli.
+the implementation was made by Arnaud Desclouds and Antoine Messerli.
